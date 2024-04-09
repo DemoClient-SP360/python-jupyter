@@ -12,7 +12,7 @@ Nothing to be installed, just run the script directly.
 # Usage
 
 1) Fill the required fields.
-2) the conversion result will be displayed in the Result Entry.
+2) the conversion result will be displayed in the Result Entry. Happy
 
 # Output
 
